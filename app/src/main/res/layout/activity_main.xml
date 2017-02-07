@@ -11,7 +11,7 @@
     tools:context="com.cokecat.mirag.sunshinemaly.MainActivity">
 
     <fragment
-        android:name="com.cokecat.mirag.sunshinemaly.MainFragment"
+        android:name="com.cokecat.mirag.sunshinemaly.ForecastFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/fragment"
